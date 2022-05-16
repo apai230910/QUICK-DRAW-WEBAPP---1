@@ -1,0 +1,36 @@
+body {
+
+ font-size: 25px;
+
+background: linear-gradient(to bottom, #0052D4, #65C7F7, #9CECFB);
+
+color: white;
+
+
+font-family: 'Macondo', cursive;
+
+}
+
+#Timer {
+
+ float: right;
+
+}
+
+#show_sketch {
+
+ float: right;
+
+}
+
+#heading {
+
+ margin-left: 107px;
+
+}
+
+#show_sketch {
+
+ border: 2px solid 	#FFD700;
+
+}
